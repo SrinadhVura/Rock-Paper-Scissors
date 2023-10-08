@@ -7,6 +7,8 @@ This repository hosts a Python-based project that brings the classic game of Roc
 The application seamlessly combines the power of Computer Vision technologies, OpenCV, and MediaPipe Hands framework to create an engaging Rock Paper Scissors game. Users can play the game by showcasing their hand gestures in front of the webcam, allowing the application to detect and respond accordingly.
 
 **Key Features:**
+
+
 1️⃣ **Hand Detection using MediaPipe**: Utilizes the MediaPipe Hands framework to accurately identify and track hand gestures in real-time.
 
 2️⃣ **Real-time Webcam Interaction**: Captures and processes the user's hand movements through the webcam, enabling an interactive and immersive gaming experience.
@@ -27,7 +29,8 @@ MediaPipe Hands, an advanced hand tracking framework by Google, employs machine 
 ![mphs](https://github.com/SrinadhVura/Rock-Paper-Scissors/assets/83588454/5add2f7e-947e-45bc-ae35-fc359fa4dde2)
 
 We use the landmarks 
+```
 0 -- WRIST
 12 -- MIDDLE_FINGER_TIP
 16 -- RING_FINGER_TIP
-
+```
