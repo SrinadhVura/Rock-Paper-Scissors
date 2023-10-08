@@ -34,3 +34,6 @@ We use the landmarks
 12 -- MIDDLE_FINGER_TIP
 16 -- RING_FINGER_TIP
 ```
+
+
+🌟 This repository showcases the potential of Computer Vision technologies in enhancing traditional games, providing an interactive and enjoyable way to play Rock Paper Scissors.
